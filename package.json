@@ -1,0 +1,22 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "just a playground to test with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonsays123/playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonsays123/playground/issues"
+  },
+  "homepage": "https://github.com/simonsays123/playground#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
